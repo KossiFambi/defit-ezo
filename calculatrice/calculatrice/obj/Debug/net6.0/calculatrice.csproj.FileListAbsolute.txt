@@ -1,0 +1,15 @@
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\bin\Debug\net6.0\calculatrice.exe
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\bin\Debug\net6.0\calculatrice.deps.json
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\bin\Debug\net6.0\calculatrice.runtimeconfig.json
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\bin\Debug\net6.0\calculatrice.dll
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\bin\Debug\net6.0\calculatrice.pdb
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.AssemblyInfoInputs.cache
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.AssemblyInfo.cs
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.csproj.CoreCompileInputs.cache
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.sourcelink.json
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.dll
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\refint\calculatrice.dll
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.pdb
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\calculatrice.genruntimeconfig.cache
+C:\projets_cs\defit-ezo\calculatrice\calculatrice\obj\Debug\net6.0\ref\calculatrice.dll
